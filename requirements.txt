@@ -1,0 +1,14 @@
+flask
+flask-sqlalchemy
+openai
+transformers
+torch
+beautifulsoup4
+requests
+pandas
+scikit-learn
+fpdf2
+python-dotenv
+nltk
+textstat
+matplotlib
